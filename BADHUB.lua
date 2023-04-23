@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("remove script")
+game.Players.LocalPlayer:Kick("use new script link in scriptblox")
